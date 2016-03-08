@@ -10,7 +10,8 @@ namespace PTM_HelloGit_Skorupinski
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Git!");
+            Console.WriteLine("Hello GitHub!");
+            Console.WriteLine("Ja, Marcin Skorupiński jestem pierwszym autorem tego programu.");
         }
     }
 }
