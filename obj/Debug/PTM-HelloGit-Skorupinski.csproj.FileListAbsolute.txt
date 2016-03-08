@@ -1,0 +1,6 @@
+c:\users\labsw\documents\visual studio 2013\Projects\PTM-HelloGit-Skorupinski\PTM-HelloGit-Skorupinski\bin\Debug\PTM-HelloGit-Skorupinski.exe.config
+c:\users\labsw\documents\visual studio 2013\Projects\PTM-HelloGit-Skorupinski\PTM-HelloGit-Skorupinski\bin\Debug\PTM-HelloGit-Skorupinski.exe
+c:\users\labsw\documents\visual studio 2013\Projects\PTM-HelloGit-Skorupinski\PTM-HelloGit-Skorupinski\bin\Debug\PTM-HelloGit-Skorupinski.pdb
+c:\users\labsw\documents\visual studio 2013\Projects\PTM-HelloGit-Skorupinski\PTM-HelloGit-Skorupinski\obj\Debug\PTM-HelloGit-Skorupinski.csprojResolveAssemblyReference.cache
+c:\users\labsw\documents\visual studio 2013\Projects\PTM-HelloGit-Skorupinski\PTM-HelloGit-Skorupinski\obj\Debug\PTM-HelloGit-Skorupinski.exe
+c:\users\labsw\documents\visual studio 2013\Projects\PTM-HelloGit-Skorupinski\PTM-HelloGit-Skorupinski\obj\Debug\PTM-HelloGit-Skorupinski.pdb
